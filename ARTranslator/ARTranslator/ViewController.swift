@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let ApiKey = "AIzaSyADpYYUQuBCOyjPJkoI2QD7NAXQZj3aAJE"
+    let apiKey = "AIzaSyADpYYUQuBCOyjPJkoI2QD7NAXQZj3aAJE"
 
     override func viewDidLoad() {
         super.viewDidLoad()
